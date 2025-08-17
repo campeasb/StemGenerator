@@ -1,0 +1,14 @@
+pretrained_models/
+models/
+demucs_models/
+.demucs_out/
+uploads/
+outputs/
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+.idea/
+.DS_Store
+Thumbs.db
